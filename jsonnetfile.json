@@ -14,7 +14,7 @@
       "source": {
         "git": {
           "remote": "https://github.com/jsonnet-libs/cert-manager-libsonnet.git",
-          "subdir": "1.8"
+          "subdir": "1.19"
         }
       },
       "version": "main"
