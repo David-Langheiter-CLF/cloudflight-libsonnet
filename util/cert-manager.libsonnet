@@ -1,4 +1,4 @@
-local cm = import 'github.com/jsonnet-libs/cert-manager-libsonnet/1.8/main.libsonnet';
+local cm = import 'github.com/jsonnet-libs/cert-manager-libsonnet/1.19/main.libsonnet';
 local d = import 'github.com/jsonnet-libs/docsonnet/doc-util/main.libsonnet';
 {
   withK(k):: {
